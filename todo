@@ -1,0 +1,13 @@
+- Minutes and Hours in the checkpoint input panel.
+- Instead of the "Remove Last" button in the checkpoint input panel, make it so each checkpoint has a button for removing it (and keeping the others).
+- Checkpoints should be nameable. In the checkpoint input panel, I should be able to just directly type their names. The current default names (i.e., "Checkpoint 1" and so on) are good.
+- The "Start Timer" button should start out with black text.
+- The "Configure Checkpoints" area should be at the bottom of the window instead of the top.
+- The entire window should be scrollable (vertically and horizontally).
+- There should be a "pause" button.
+- There should be a "restart checkpoint" button.
+- There should be a "finish checkpoint and roll over remaining time" button.
+- There should be a "finish checkpoint and adjust end time to now" button.
+- There should be only a single horizontal timer bar, although it could be a line of horizontal bars placed up against each other. Or, a single bar with subdivisions. Either way, it should look like a stacked horizontal bar with a different bar or section for each checkpoint.
+- There should be text below the bar saying the name of the current checkpoint.
+- Above the bar (or line of bars), there should be a clock time above the beginning and end of each bar, and a duration above the middle of each bar.
